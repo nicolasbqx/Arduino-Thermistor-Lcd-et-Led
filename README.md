@@ -23,4 +23,10 @@ Le montage:
 
 
 Les tests (en plaçant deux doigts sur le thermistor):
-  // pics
+
+Agreable:
+![montage](https://raw.githubusercontent.com/nicolasbqx/Arduino-Thermistor-Lcd-et-Led/master/Montage%20et%20tests/Arduino-Thermistor-Lcd-et-Led_agreable.jpg)
+
+Chaud:
+![montage](https://raw.githubusercontent.com/nicolasbqx/Arduino-Thermistor-Lcd-et-Led/master/Montage%20et%20tests/Arduino-Thermistor-Lcd-et-Led_chaud.jpg)
+
