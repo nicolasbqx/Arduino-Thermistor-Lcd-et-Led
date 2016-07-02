@@ -37,7 +37,7 @@ Les connexions sont:
 | trois barres             | GND           |
 
 Le montage:
-![montage arduino](https://raw.githubusercontent.com/nicolasbqx/Arduino-Thermistor-Lcd-et-Led/master/Montage%20et%20tests/Arduino_Uno_i2C_LCD_bb.png)
+![montage arduino](https://raw.githubusercontent.com/nicolasbqx/Arduino-Thermistor-Lcd-et-Led/master/Montage%20et%20tests/Arduino_Uno_i2C_LCD_LED_Thermistor_schema.png)
 
 
 Les tests (en plaçant deux doigts sur le thermistor):
