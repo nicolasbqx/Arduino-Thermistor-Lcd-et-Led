@@ -7,16 +7,16 @@ Pour l'écran j'utilise un controleur de bus i2c UC-146 qui est éxactement le m
 
 L'écran est un SCM1602A-V2 (16x2)
 
-Le thermistor est en 10k
+Le thermistor est un 10k
 
 Les connexions sont:
 
-| Sur l'écran | Sur l'arduino |
-|:-----------:|:-------------:|
-| GND         | GND           |
-| VCC         | 5V            |
-| SDA         | A4            |
-| SCL         | A5            |
+| Sur l'le module i2c | Sur l'arduino |
+|:---------------- --:|:-------------:|
+| GND                 | GND           |
+| VCC                 | 5V            |
+| SDA                 | A4            |
+| SCL                 | A5            |
 
 
 | Sur la led*    | Sur l'arduino |
@@ -26,7 +26,7 @@ Les connexions sont:
 | Green          | 10            |
 | Blue           | 11            |
 
-*Pensez à bien mettre une résistance du niveau de votre led à chaque pattes (4) de la led.
+*Pensez à bien mettre une résistance du niveau de votre led à chaque pattes de la led (4).
 
 ![montage thermistor](http://playground.arduino.cc/uploads/ComponentLib/simple10ktherm_schem_new.png)
 
@@ -40,7 +40,7 @@ Le montage:
 ![montage arduino](https://raw.githubusercontent.com/nicolasbqx/Arduino-Thermistor-Lcd-et-Led/master/Montage%20et%20tests/Arduino_Uno_i2C_LCD_LED_Thermistor_schema.png)
 
 
-Les tests (en plaçant deux doigts sur le thermistor):
+Les tests (en plaçant deux doigts sur le thermistor pour le chauffer):
 
 Agréable:
 ![test 26,79](https://raw.githubusercontent.com/nicolasbqx/Arduino-Thermistor-Lcd-et-Led/master/Montage%20et%20tests/Arduino-Thermistor-Lcd-et-Led_agreable.jpg)
