@@ -12,7 +12,7 @@ Le thermistor est un 10k
 Les connexions sont:
 
 | Sur l'le module i2c | Sur l'arduino |
-|:---------------- --:|:-------------:|
+|:-------------------:|:-------------:|
 | GND                 | GND           |
 | VCC                 | 5V            |
 | SDA                 | A4            |
