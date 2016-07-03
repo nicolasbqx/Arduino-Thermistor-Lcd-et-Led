@@ -26,7 +26,7 @@ Les connexions sont:
 | Green          | 10            |
 | Blue           | 11            |
 
-*Pensez à bien mettre une résistance du niveau de votre led à chaque pattes de la led (4).
+*Pensez à bien mettre une résistance du niveau de votre led à chaque pattes (4).
 
 ![montage thermistor](http://playground.arduino.cc/uploads/ComponentLib/simple10ktherm_schem_new.png)
 
